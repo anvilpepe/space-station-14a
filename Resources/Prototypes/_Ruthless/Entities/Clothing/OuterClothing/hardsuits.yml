@@ -1,0 +1,27 @@
+- type: entity
+  parent: ClothingOuterHardsuitDeathsquad
+  id: DeathsquadJuggernautHardsuit
+  name: скафандр джаггернаута Эскадрона смерти
+  description: В этом скафандре были объединены лучшие разработки Нанотрейзен. Он предоставляет лучшее возможное бронирование. Просто молитесь, чтобы у этой твари кончились патроны...
+  components:
+  - type: ExplosionResistance
+    damageCoefficient: 0.1
+  - type: FireProtection
+    reduction: 0.99
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.01 #REALLY best armor in the game
+        Slash: 0.01
+        Piercing: 0.01
+        Heat: 0.01
+        Radiation: 0.01
+        Caustic: 0.01
+        Stun: 0.01
+  - type: ClothingSpeedModifier
+    walkModifier: 0.7
+    sprintModifier: 0.7
+  - type: HeldSpeedModifier
+  - type: ToggleableClothing
+    clothingPrototype: DeathsquadJuggernautHardsuitHelmet
+

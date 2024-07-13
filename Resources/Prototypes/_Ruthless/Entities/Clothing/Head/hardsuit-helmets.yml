@@ -1,0 +1,20 @@
+- type: entity
+  parent: ClothingHeadHelmetHardsuitDeathsquad
+  id: DeathsquadJuggernautHardsuitHelmet
+  name: шлем джаггернаута Эскадрона смерти
+  description: Если вы видите кого-либо в этом шлеме - бегите.
+  components:
+  - type: PointLight
+    color: red
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.01
+        Slash: 0.01
+        Piercing: 0.01
+        Heat: 0.01
+        Radiation: 0.01
+        Caustic: 0.01
+        Stun: 0.01
+  - type: FireProtection
+    reduction: 0.99

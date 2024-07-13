@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingUniformBase
+  id: WehrmachtUniform
+  name: Униформа солдата Вермахта
+  description: Этой форме больше тысячи лет, но она выглядит как новая. Осуждаем.
+  components:
+    - type: Sprite
+      sprite: _Ruthless/Clothing/Uniforms/Jumpsuit/wehrmacht.rsi
+    - type: Clothing
+      sprite: _Ruthless/Clothing/Uniforms/Jumpsuit/wehrmacht.rsi
