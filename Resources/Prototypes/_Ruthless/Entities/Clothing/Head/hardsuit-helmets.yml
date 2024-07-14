@@ -4,6 +4,10 @@
   name: шлем джаггернаута Эскадрона смерти
   description: Если вы видите кого-либо в этом шлеме - бегите.
   components:
+  - type: Sprite
+    sprite: _Ruthless/Clothing/Head/Hardsuits/deathsquad-juggernaut.rsi
+  - type: Clothing
+    sprite: _Ruthless/Clothing/Head/Hardsuits/deathsquad-juggernaut.rsi
   - type: PointLight
     color: red
   - type: Armor

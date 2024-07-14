@@ -4,6 +4,10 @@
   name: скафандр джаггернаута Эскадрона смерти
   description: В этом скафандре были объединены лучшие разработки Нанотрейзен. Он предоставляет лучшее возможное бронирование. Просто молитесь, чтобы у этой твари кончились патроны...
   components:
+  - type: Sprite
+    sprite: _Ruthless/Clothing/OuterClothing/Hardsuits/deathsquad-juggernaut.rsi
+  - type: Clothing
+    sprite: _Ruthless/Clothing/OuterClothing/Hardsuits/deathsquad-juggernaut.rsi
   - type: ExplosionResistance
     damageCoefficient: 0.1
   - type: FireProtection
