@@ -1,0 +1,24 @@
+- type: entity
+  parent: ClothingHeadHelmetHardsuitDeathsquad
+  id: DeathsquadJuggernautHardsuitHelmet
+  name: шлем джаггернаута Эскадрона смерти
+  description: Если вы видите кого-либо в этом шлеме - бегите.
+  components:
+  - type: Sprite
+    sprite: _Ruthless/Clothing/Head/Hardsuits/deathsquad-juggernaut.rsi
+  - type: Clothing
+    sprite: _Ruthless/Clothing/Head/Hardsuits/deathsquad-juggernaut.rsi
+  - type: PointLight
+    color: red
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.05 #REALLY best armor in the game
+        Slash: 0.05
+        Piercing: 0.05
+        Heat: 0.05
+        Radiation: 0.05
+        Caustic: 0.05
+        Stun: 0.05
+  - type: FireProtection
+    reduction: 0.975

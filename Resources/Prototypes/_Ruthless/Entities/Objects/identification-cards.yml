@@ -1,0 +1,9 @@
+- type: entity
+  parent: DedSquadronGavnaIDCard
+  id: DeathsquadJuggernautIDCard
+  name: ID карта джаггернаута спецсил
+  components:
+  - type: IdCard
+    jobTitle: Omega-0
+    fullName: Джаггернаут спецсил
+    jobIcon: JobIconDeathSquadron

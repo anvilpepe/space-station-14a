@@ -1,0 +1,16 @@
+- type: startingGear
+  id: SpecialForceJuggernautGearFull
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitSpetsnaz
+    back: ClothingBackpackSpecialForce
+    shoes: ClothingShoesBootsSpetsnaz
+    mask: ClothingMaskGasDeathSquadV2_1
+    neck: CombatKnifeSpetsnaz
+    eyes: ClothingEyesGlassesSecurity
+    gloves: ClothingHandsGlovesSpetsnazcombat
+    outerClothing: DeathsquadJuggernautHardsuit
+    id: DeathsquadJuggernautIDCard
+    ears: ClothingHeadsetCentComCCAltDeath
+    belt: WeaponRevolverMateba
+    pocket1: EnergySwordDedSad
+    pocket2: WeaponPulsePistol
