@@ -13,12 +13,12 @@
   - type: Armor
     modifiers:
       coefficients:
-        Blunt: 0.01
-        Slash: 0.01
-        Piercing: 0.01
-        Heat: 0.01
-        Radiation: 0.01
-        Caustic: 0.01
-        Stun: 0.01
+        Blunt: 0.05 #REALLY best armor in the game
+        Slash: 0.05
+        Piercing: 0.05
+        Heat: 0.05
+        Radiation: 0.05
+        Caustic: 0.05
+        Stun: 0.05
   - type: FireProtection
-    reduction: 0.99
+    reduction: 0.975
