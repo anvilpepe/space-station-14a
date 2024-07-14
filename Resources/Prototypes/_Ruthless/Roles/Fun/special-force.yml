@@ -8,8 +8,8 @@
     neck: CombatKnifeSpetsnaz
     eyes: ClothingEyesGlassesSecurity
     gloves: ClothingHandsGlovesSpetsnazcombat
-    outerClothing: ClothingOuterHardsuitDeathsquad
-    id: DedSquadronGavnaIDCard
+    outerClothing: DeathsquadJuggernautHardsuit
+    id: DeathsquadJuggernautIDCard
     ears: ClothingHeadsetCentComCCAltDeath
     belt: WeaponRevolverMateba
     pocket1: EnergySwordDedSad
